@@ -1,7 +1,7 @@
 # Bürgerliche Kompetenz in der neuen Infrastruktur der Demokratie: Die politischen Spannungsverhältnisse verschiedener Ebenen digitaler Souveränität
 
 Autor: [Frodo Podschwadek](https://www.frodopodschwadek.co.uk/) ([Akademie der Wissenschaften und der Literatur | Mainz](https://www.adwmainz.de/))  
-Veranstaltung: [Tagung für Praktische Philosophy 2026](https://www.tagung-praktische-philosophie.org/)
+Veranstaltung: [Tagung für Praktische Philosophie 2026](https://www.tagung-praktische-philosophie.org/)
 
 ## Materialien
 
