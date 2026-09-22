@@ -4,4 +4,4 @@ Autor: [Frodo Podschwadek](https://www.frodopodschwadek.co.uk/) ([Akademie der W
 Veranstaltung: [Tagung für Praktische Philosophy 2026](https://www.tagung-praktische-philosophie.org/)
 
 - [Vortragsmanuskript](https://github.com/fpodschwadek/demokratie-kompetenz-infrastruktur-tfpp-2026/blob/main/script.pdf)
-- [Prästentationsfolien](https://github.com/fpodschwadek/demokratie-kompetenz-infrastruktur-tfpp-2026/raw/refs/heads/main/slides.pptx)
+- [Präsentationsfolien](https://github.com/fpodschwadek/demokratie-kompetenz-infrastruktur-tfpp-2026/raw/refs/heads/main/slides.pptx)
